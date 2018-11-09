@@ -1,0 +1,13 @@
+{
+    "app": {
+        "port": 3000
+    },
+    "db": {
+        "db_url": "mongodb://localhost/db_todo",
+        "host": "mongodb://localhost",
+        "port": 27017,
+        "db_name": "db_todo",
+        "user": "",
+        "password": ""
+    }
+}
